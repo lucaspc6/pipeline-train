@@ -26,5 +26,3 @@ jobs:
                     path: build-result.txt
             - name: use of artifact
               run: ls build-result.txt
-
-  
